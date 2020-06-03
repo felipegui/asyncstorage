@@ -1,0 +1,1 @@
+Estudo de caso para AsyncStorage usando uma dependência @react-native-community/async-storage
